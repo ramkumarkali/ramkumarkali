@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ramk59525942" target="blank"><img src="https://img.shields.io/twitter/follow/ramk59525942?logo=twitter&style=for-the-badge" alt="ramk59525942" /></a> </p>
 
-- 🌱 I’m currently learning **Selenium,ReactJS,SpringFramework**
+- 🌱 I’m currently learning **Selenium,SpringFramework**
 
 - 📝 I regularly write articles on [https://techtimes2k.blogspot.com/](https://techtimes2k.blogspot.com/)
 
