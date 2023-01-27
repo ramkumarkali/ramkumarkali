@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm RAMKUMAR K</h1>
-<h3 align="center">A passionate Developing Full Stack Developer from India</h3>
+<h3 align="center">A passionate Developing Performance Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkumarkali&label=Profile%20views&color=0e75b6&style=flat" alt="ramkumarkali" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ramk59525942" target="blank"><img src="https://img.shields.io/twitter/follow/ramk59525942?logo=twitter&style=for-the-badge" alt="ramk59525942" /></a> </p>
 
-- 🌱 I’m currently learning **Selenium,SpringFramework.**
-
-- 📝 I regularly write articles on [https://techtimes2k.blogspot.com/](https://techtimes2k.blogspot.com/)
+- 🌱 I’m currently learning **Gatling,Apache JMeter.**
 
 - 📫 How to reach me **kaliramk2000@gmail.com**
 
