@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ramk59525942" target="blank"><img src="https://img.shields.io/twitter/follow/ramk59525942?logo=twitter&style=for-the-badge" alt="ramk59525942" /></a> </p>
 
-- 🌱 I’m currently learning **Spring,Spring Boot,ReactJs,Js**
+- 🌱 I’m currently learning **Devops (Terraform)**
 
 - 📫 How to reach me **kaliramk2000@gmail.com**
 
